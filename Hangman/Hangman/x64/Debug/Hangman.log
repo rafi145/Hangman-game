@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\rafi1\Desktop\Rafi\בראודה\סמסטר ב\מתמ\Hangman\Hangman\main.c(36,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rafi1\Desktop\Rafi\בראודה\סמסטר ב\מתמ\Hangman\Hangman\main.c(53,20): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rafi1\Desktop\Rafi\בראודה\סמסטר ב\מתמ\Hangman\Hangman\main.c(98,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Hangman.vcxproj -> C:\Users\rafi1\Desktop\Rafi\בראודה\סמסטר ב\מתמ\Hangman\x64\Debug\Hangman.exe
